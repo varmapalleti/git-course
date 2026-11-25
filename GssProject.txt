@@ -4,3 +4,4 @@ nagesh varma palleti working on frontend.
 Ritesh solanke working on backend. 
 
 20-10-2026 completed the first module of the project (authentication)
+24-11-2026 currently working on the second module rfq
