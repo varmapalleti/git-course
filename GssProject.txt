@@ -1,4 +1,4 @@
 GSS RFQ connect..
 we are working on this project.
-Ritesh solanke working on backend. 
 nagesh varma palleti working on frontend.
+Ritesh solanke working on backend. 
