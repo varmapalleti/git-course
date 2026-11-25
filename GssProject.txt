@@ -2,3 +2,5 @@ GSS RFQ connect..
 we are working on this project.
 nagesh varma palleti working on frontend.
 Ritesh solanke working on backend. 
+
+20-10-2026 completed the first module of the project (authentication)
